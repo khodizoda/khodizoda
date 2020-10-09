@@ -1,5 +1,5 @@
 ![hello](./imgs/hello.gif)
-![about_me](./imgs/new_badge.png)
+![about_me](./imgs/badge.png)
 
 <p align="center">
 <a href="mailto:gul.khodizoda@gmail.com"><img src="https://img.icons8.com/nolan/35/gmail.png" alt="Gmail Badge"/></a>
