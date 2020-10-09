@@ -1,16 +1,12 @@
-### Hi there 👋
+![hello](./imgs/hello.gif)
+![about_me](./imgs/new_badge.png)
 
-<!--
-**khodizoda/khodizoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="mailto:gul.khodizoda@gmail.com"><img src="https://img.icons8.com/nolan/35/gmail.png" alt="Gmail Badge"/></a>
+<a href="https://twitter.com/gul_codes"><img src="https://img.icons8.com/nolan/35/twitter-squared.png" alt="Twitter Badge"/></a>
+<a href="https://www.linkedin.com/in/khodizoda/"><img src="https://img.icons8.com/nolan/35/linkedin.png" alt="LinkedIn Badge"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img alt="languages and tools" width="700px" src="./imgs/stack.png" />
+</p>
