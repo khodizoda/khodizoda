@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/khodizoda/"><img src="https://img.icons8.com/nolan/35/linkedin.png" alt="LinkedIn Badge"/></a>
 </p>
 
+<h3 align="center">Tools and Technologies:</h3>
 <p align="center">
 <img alt="languages and tools" width="700px" src="./imgs/stack.png" />
 </p>
