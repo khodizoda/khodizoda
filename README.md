@@ -1,5 +1,5 @@
 ![hello](./imgs/hello.gif)
-![about_me](./imgs/badge.png)
+![about-me](./imgs/new_badge.png)
 
 <p align="center">
 <a href="mailto:gul.khodizoda@gmail.com"><img src="https://img.icons8.com/nolan/35/gmail.png" alt="Gmail Badge"/></a>
@@ -9,5 +9,5 @@
 
 <h3 align="center">Tools and Technologies:</h3>
 <p align="center">
-<img alt="languages and tools" width="700px" src="./imgs/stack.png" />
+<img alt="languages and tools" width="700px" src="./imgs/new_stack.png" />
 </p>
