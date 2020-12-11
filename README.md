@@ -1,4 +1,3 @@
-![hello](./imgs/hello_dark_mode.gif)
 ![about-me](./imgs/dark_mode.png)
 
 <p align="center">
