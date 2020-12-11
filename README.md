@@ -1,4 +1,4 @@
-![about-me](./imgs/hello-dark-mode.gif)
+![about-me](./imgs/dark-mode.gif)
 
 <p align="center">
 <a href="mailto:gul.khodizoda@gmail.com"><img src="https://img.icons8.com/nolan/35/gmail.png" alt="Gmail Badge"/></a>
